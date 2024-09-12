@@ -31,7 +31,7 @@ aidpcoreTasks('submodule', {skipBrowsers: true});
 
 ## Contributing
 
-See [CONTRIBUTING.md](https://github.com/underdarkskies/aidpcore) on the main aidpcore repo for information about how to contribute.
+See [CONTRIBUTING.md](https://github.com/underdarkskies/Ravencoin/blob/master/CONTRIBUTING.md) on the main aidpcore repo for information about how to contribute.
 
 ## License
 
